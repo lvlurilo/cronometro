@@ -1,11 +1,11 @@
 # Cronometro
 
-Projeto criado em Java com o objetivo de praticar o uso de Threads para executar os cÛdigos de data e hora, e tambem exercitar o uso do Java Swing para construÁ„o da interface gr·fica.
+Projeto criado em Java com o objetivo de praticar o uso de Threads para executar os c√≥digos de data e hora, e tambem exercitar o uso do Java Swing para constru√ß√£o da interface gr√°fica.
 
 ## Como funciona
 
 A janela apresenta a data e hora atual na primeira linha.
 
-Na segunda linha, o cronometro pode ser iniciado, parado e zerado a partir dos botıes existentes no fim da janela.
+Na segunda linha, o cronometro pode ser iniciado, parado e zerado a partir dos bot√µes existentes no fim da janela.
 
-![cronometro]()
+![cronometro](https://github.com/lvlurilo/cronometro/blob/main/imagemCronometro.JPG)
