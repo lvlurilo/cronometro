@@ -1,10 +1,10 @@
 package cronometro;
 
-public class Main {
+public class Execute {
 	
 	public static void main(String[] args) {
 		
-		Tela t1 = new Tela();
+		App app = new App();
 		
 	}
 
